@@ -1,0 +1,1 @@
+StdObsFuncsLink = '/Users/jamesau/Downloads/DTU34269/Coloimetry/Colorimetry ressources/StdObsFuncs.xls'

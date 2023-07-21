@@ -1,6 +1,8 @@
 # Low-Light-Enhancement-GAN
 DTU Computational Photography Project
 
+Paper here: https://www.overleaf.com/read/mwfpmcfczqnd
+
 ## Aim
 The aim of this project is to enhance poorly lit images into well lit images using a simple GAN architecture.
 
